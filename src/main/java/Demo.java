@@ -4,5 +4,6 @@ public class Demo {
         System.out.println("456");
         System.out.println("789");
         System.out.println("789456");
+        System.out.println("789123");
     }
 }
